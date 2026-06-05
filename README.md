@@ -1,6 +1,4 @@
 ### IT Support Analyst | Security | Linux
-
-### IT Support Analyst | Security | Linux
 Atuo como analista de suporte no dia a dia, lidando com redes, sistemas e usuários.  
 Tenho experiência prática com diagnóstico de falhas e busco evoluir para posições de Suporte N2 / Sysadmin / SNOC / SOC, com foco em infraestrutura e ambientes Linux.
 
@@ -11,8 +9,7 @@ Minha base em análise de dados contribui para um pensamento analítico na inves
 ### Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-manoel-neves-125974334/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.joaocontato11@gmail.com)
-
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=dev.joaocontato11@gmail.com)
 ---
 
 ### Technologies
