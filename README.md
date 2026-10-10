@@ -1,8 +1,10 @@
-### IT Support Analyst | Security | Linux
-Atuo como analista de suporte no dia a dia, lidando com redes, sistemas e usuários.  
-Tenho experiência prática com diagnóstico de falhas e busco evoluir para posições de Suporte N2 / Sysadmin / SNOC / SOC, com foco em infraestrutura e ambientes Linux.
+### Junior IT Infrastructure Analyst | Linux | Networking | Security
 
-Minha base em análise de dados contribui para um pensamento analítico na investigação e resolução de incidentes.
+IT Support Analyst with hands-on experience in technical troubleshooting, hardware support, and IT documentation in a corporate environment.
+
+Currently focused on developing my skills in IT infrastructure, Windows and Linux administration, networking, and information security, with the goal of progressing into Junior Infrastructure Analyst and N2 Support roles.
+
+My background in Data Analysis also strengthens my analytical thinking and structured approach to troubleshooting and incident resolution.
 
 ---
 
@@ -10,19 +12,14 @@ Minha base em análise de dados contribui para um pensamento analítico na inves
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-manoel-neves-125974334/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=dev.joaocontato11@gmail.com)
+
 ---
 
-### Technologies
+### Technologies & Focus Areas
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Active Directory](https://img.shields.io/badge/Active_Directory-003366?style=for-the-badge&logo=microsoft&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-00599C?style=for-the-badge&logo=cisco&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-1F425F?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Information%20Security](https://img.shields.io/badge/Information_Security-2C3E50?style=for-the-badge&logo=kalilinux&logoColor=white)
